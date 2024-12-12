@@ -6,8 +6,8 @@ Here is the updated `README.md` file based on your requirements:
 # Traffic Light Simulation and Analysis
 
 ## Group Members
-- **Shyama Vinod Kumar Patel** - KU2407U574
-- **Sneha Mukesh Gadhavi** - KU2407U575
+- **Sneha gadhavi** - KU2407U575
+- **Shyama patel** - KU2407U574
 
 ---
 
